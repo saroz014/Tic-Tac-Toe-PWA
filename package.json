@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe as a PWA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1",
+    "build": "workbox generateSW"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app"
+  ],
+  "author": "Saroj Raj Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "workbox-cli": "^5.1.3"
+  }
+}
