@@ -28,7 +28,8 @@ npm run start
   05. An app install banner will appear, click to install.
     ![](screenshots/app_install_banner.png "App Install Banner")
     
-  06. If app install banner does not appear, at the top right click the 'More' button(3 dots) and then Add to Home screen.
+  06. If app install banner does not appear, at the top right click the 'More' button(3 dots) and then click on Add to
+  Home screen to install.
     ![](screenshots/add_to_home_screen.png "Add to Home Screen")
 
 
